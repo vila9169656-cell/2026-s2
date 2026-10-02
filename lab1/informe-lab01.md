@@ -2,7 +2,7 @@
 
 ## 1. Datos generales
 
-**Estudiante:** Dilan  
+**Estudiante:**Univ. Dilan Vila Montero
 **Fecha:** 02/10/2026  
 **Distribución utilizada:** Ubuntu 24.04.4 LTS  
 **Entorno:** Máquina virtual en VirtualBox  
