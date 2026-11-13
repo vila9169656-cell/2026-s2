@@ -1,8 +1,10 @@
 # Laboratorio 3 — Enlaces Internacionales de Internet en Bolivia
 
-Estudiante: Univ. Vila Montero Dilan 
-Fecha de consulta: 13 de noviembre de 2026
-Modalidad: Investigación de fuentes públicas y mediciones en Ubuntu
+**Estudiante:** Univ. Vila Montero Dilan 
+
+**Fecha de consulta:** 13 de noviembre de 2026
+
+**Modalidad:** Investigación de fuentes públicas y mediciones en Ubuntu
 
 ## 1. Infraestructura de fibra óptica
 
@@ -133,4 +135,3 @@ Para demostrar una caché Netflix o Google dentro de un ISP boliviano se necesit
 
 **Verificación adicional de fuentes (13/11/2026):** https://smi.att.gob.bo/ ; https://bgp.he.net/AS6568 ; https://bgp.he.net/AS26210 ; https://www.peeringdb.com/asn/6568 ; https://www.peeringdb.com/asn/15169 .
 
-**Antes de entregar:** reemplazar el nombre del estudiante en la cabecera y renombrar este archivo con el formato `Laboratorio_Enlaces_Internacionales_Apellido_Nombre.md`. El contenido distingue datos observados, inferencias y límites de la evidencia conforme a la guía.
