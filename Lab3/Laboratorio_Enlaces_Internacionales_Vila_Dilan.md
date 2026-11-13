@@ -119,13 +119,6 @@ Para demostrar una caché Netflix o Google dentro de un ISP boliviano se necesit
 4. En las mediciones locales, `umsa.bo` respondió 5 de 5 pings con RTT promedio de 22.329 ms; `entel.bo` no resolvió una dirección para ping. Esto no permite inferir ubicación física ni disponibilidad web.
 5. Una relación entre un ISP y una plataforma no confirma que haya una caché CDN dentro de la red del ISP.
 
-## Preparación para la defensa individual (máximo 10 minutos)
-
-- Fibra: mostrar dos tramos terrestres y dos cables submarinos, indicando límites de los mapas.
-- ASN/BGP: explicar ENTEL, AXS, RDAP, un upstream probable y un peer.
-- DNS/ping: comparar registros y RTT medidos, explicar TTL y pérdida ICMP.
-- CDN: presentar matriz de Netflix, Google, TikTok y Meta sin confundir peering con caché local.
-
 ## Registro de evidencias y limitaciones
 
 - **Fuentes primarias aportadas:** capturas del 12/11/2026 de mapas UIT, TeleGeography, consultas de redes y registros RDAP; medición local `resultados_lab3.txt` del 13/11/2026; captura adicional de Banco Unión.
