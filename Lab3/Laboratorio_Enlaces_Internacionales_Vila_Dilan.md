@@ -1,8 +1,8 @@
 # Laboratorio 3 — Enlaces Internacionales de Internet en Bolivia
 
-**Estudiante:** Univ. Vila Montero Dilan 
-**Fecha de consulta:** 13 de noviembre de 2026
-**Modalidad:** Investigación de fuentes públicas y mediciones en Ubuntu
+Estudiante: Univ. Vila Montero Dilan 
+Fecha de consulta: 13 de noviembre de 2026
+Modalidad: Investigación de fuentes públicas y mediciones en Ubuntu
 
 ## 1. Infraestructura de fibra óptica
 
